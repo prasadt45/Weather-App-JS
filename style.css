@@ -1,0 +1,141 @@
+*{
+    padding: 0; 
+    margin: 0;
+    color:white;
+  
+    
+    
+}
+body{
+   background-image: url(vecteezy_abstract-dark-green-surface-of-leaves-natural-floral_24391577.jpg);
+   height: 590px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: max(1300px, 100vw);
+    
+
+}
+
+.navb ul {
+    background: rgba( 255, 255, 255, 0.1 );
+box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+backdrop-filter: blur( 6px );
+-webkit-backdrop-filter: blur( 6px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+  
+   display: flex ; 
+   gap: 60px;
+   padding-left: 10px;
+   
+   
+   
+}
+.navb ul li{
+   list-style: none;
+   padding-top: 20px;
+   cursor: pointer;
+}
+.navb img{
+    padding-left: 30px;
+}
+
+
+.container{
+    margin-left: 441px;
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    height: 551px;
+    width: 634px;
+    margin-top: 34px;
+    
+    
+}
+.cnav{
+    display: flex;
+    gap: 10px;
+}
+.cnav > input{
+    padding-left: 29px;
+    margin-left: 120px;
+    height: 41px;
+    width: 353px;
+    margin-top: 10px;
+    border-radius: 9px;
+    color: black;
+}
+.cnav > img{
+    padding-top: 17px;
+    height: 28px;
+    width: 34px;
+    padding-left: 13px;
+    cursor: pointer;
+}
+.wimg{
+    padding-left: 227px;
+    /* margin: 41px; */
+    padding-top: 23px;
+    width: 170px;
+  
+
+}
+.des{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    padding-top: 10px;
+    
+}
+.des > p {
+    font-size: 40px;
+}
+.sup{
+    font-size: 20px;
+}
+.des >h3{
+    font-weight: bolder;
+    font-size: 38px;
+}
+.info{
+    display: flex;
+    gap: 225px;
+}
+
+.info1{
+    display: flex; 
+    padding-left: 25px; 
+    padding-top: 75px;
+    gap: 20px;
+
+}
+.info2{
+    display: flex; 
+    padding-left: 50px; 
+    padding-top: 75px;
+    gap: 20px;
+
+}
+.info img{
+    width: 49px;
+}
+.info p{
+    font-size: 22px;
+    
+}
+.info h4{
+    font-size: 17px;
+}
+.pp{
+    font-size: 26px;
+    /* font-weight: bold; */
+    padding-top: 25px;
+    padding-left: 200px;
+
+}
